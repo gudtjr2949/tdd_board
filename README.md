@@ -56,16 +56,12 @@ Spring Batch를 사용해 100,000개 데이터 저장 소요시간을 약 **96%*
 
 **Batch 적용 전 데이터 삽입 소요시간**
 
-<br>
-
 ![before_batch](https://github.com/user-attachments/assets/97019bca-db28-4a3f-987f-5b9aa2b46a37)
 
-<br>
 <br>
 
 **Batch 적용 후 데이터 삽입 소요시간**
 
-<br>
 ![after_batch](https://github.com/user-attachments/assets/17732e66-94ce-4cb4-a2b5-83d387baee44)
 
 <br>
@@ -79,16 +75,12 @@ Spring JPA에서 No Offset을 적용해 게시글 조회(페이징) 성능을 �
 
 **No Offset 적용 전 소요시간**
 
-<br>
-
 ![before_nooffset](https://github.com/user-attachments/assets/718b78f2-bc41-461e-b0db-db98ebe4ef6b)
 
 <br>
 <br>
 
 **No Offset 적용 후 소요시간**
-
-<br>
 
 ![after_nooffset](https://github.com/user-attachments/assets/99641747-f633-48a1-ba25-ed27173eda06)
 
