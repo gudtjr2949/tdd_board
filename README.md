@@ -66,7 +66,6 @@ Spring Batch를 사용해 100,000개 데이터 저장 소요시간을 약 **96%*
 **Batch 적용 후 데이터 삽입 소요시간**
 
 <br>
-
 ![after_batch](https://github.com/user-attachments/assets/17732e66-94ce-4cb4-a2b5-83d387baee44)
 
 <br>
