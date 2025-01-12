@@ -79,7 +79,7 @@ Spring JPA에서 No Offset을 적용해 게시글 조회(페이징) 성능을 �
 
 **No Offset 적용 전 소요시간**
 
-![before_nooffset](https://github.com/user-attachments/assets/718b78f2-bc41-461e-b0db-db98ebe4ef6b)
+![image](https://github.com/user-attachments/assets/26aa5cb6-1403-4c38-b0f7-cac7702c042f)
 
 <br>
 <br>
