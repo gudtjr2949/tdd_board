@@ -109,6 +109,6 @@ public interface BoardRepository extends JpaRepository<Board, Long> {
     ...
 }
 ```
-- findByIdLessThanOrderByIdDesc() 메서드를 통해 가장 최근에 조회한 게시글 ID보다 작은 게시글을 한 페이지당 보여줄 게시글만큼 조회할 수 있도록 한다.
+- findByIdLessThanOrderByIdDesc() 메서드를 통해 가장 최근에 조회한 게시글 ID보다 작은 게시글을 한 페이지당 보여줄 게시글만큼 조회할 수 있도록 합니다.
 
-- 이를 통해 Offset으로 인해 불필요한(조회는 하지만 사용하지 않은 게시글) 데이터를 조회하는 상황을 해결할 수 있다.
+- 이를 통해 Offset으로 인해 불필요한(조회는 하지만 사용하지 않은 게시글) 데이터를 조회하는 상황을 해결할 수 있습니다.
