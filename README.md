@@ -42,7 +42,11 @@ TDD 기반 게시판 구현 프로젝트입니다.
 
 ### 1. 테스트 코드 작성을 통한 코드 신뢰성 확보
 
-... 여기에 SnarQube 이미지 넣기
+SonarQube를 사용해 코드 커버리지를 수치화하여 코드의 신뢰도를 높였습니다.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d3dc1455-dbfc-46de-9650-3aaf6d1c453e)
 
 
 <br>
